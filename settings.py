@@ -1,6 +1,6 @@
 #settings
 RES = WIDTH, HEIGHT = 1600, 900
-FPS  = 120
+FPS  = 60
 
 PLAYER_POS = 1.5, 5 #from mini map
 PLAYER_ANGLE = 0
